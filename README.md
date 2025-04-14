@@ -40,4 +40,4 @@ $ npm run start
 <br>
 
 ## Url:
-http://localhost:5173/asd
+http://localhost:5173/
